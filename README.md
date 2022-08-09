@@ -1,3 +1,8 @@
+#Portafolio en React
+Este proyecto es un tutorial para aprender más acerca de la maquetación en React
+
+https://digitaltec.com.mx/resume/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
