@@ -1,4 +1,4 @@
-#Portafolio en React
+# Portafolio en React
 Este proyecto es un tutorial para aprender más acerca de la maquetación en React
 
 https://digitaltec.com.mx/resume/
